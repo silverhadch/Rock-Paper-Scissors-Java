@@ -1,4 +1,6 @@
 # Rock-Paper-Scissors
+A little Newbie Project written in Java.
+
 Developed by Hadi Chokr. 
 https://github.com/silverhadch/
 
