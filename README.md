@@ -1,5 +1,8 @@
 # Rock-Paper-Scissors
+Language Localisation is still in Development so its currently German only. This is a pure Alpha build.
 A little Newbie Project written in Java.
+
+You can help if you want to and will be added here and the Project.
 
 Developed by Hadi Chokr. 
 https://github.com/silverhadch/
