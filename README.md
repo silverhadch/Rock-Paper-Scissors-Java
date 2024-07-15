@@ -1,4 +1,5 @@
 # Rock-Paper-Scissors
+My old School Project
 Language Localisation is still in Development so its currently German only. This is a pure Alpha build.
 A little Newbie Project written in Java.
 
