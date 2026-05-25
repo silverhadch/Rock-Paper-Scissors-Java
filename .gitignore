@@ -1,0 +1,30 @@
+# ── Maven build output ────────────────────
+target/
+
+# ── IDE files ─────────────────────────────
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/
+build/
+dist/
+
+# ── OS junk ───────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Compiled class files (old manual builds) ──
+*.class
+out/
